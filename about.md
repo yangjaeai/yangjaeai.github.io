@@ -4,9 +4,11 @@ title: About
 sidebar_link: true
 ---
 
-<p class="message">
-  코오롱베니트 AI 스터디 모임입니다.
-</p>
+####교재####
+밑바닥부터 시작하는 딥러닝
 
-To make pages show up in the sidebar, add `sidebar_link: true` to the front
-matter.
+###### [] 스터디 일정 
+
+| 날짜        | 내용          | 기타 |
+|:-------------|:------------------|:------|
+| 2017-10-14           | 동영상보기, 소스 분석|밑바닥부터 시작하는 딥러닝    |
